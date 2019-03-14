@@ -1,2 +1,2 @@
-gcc : https://www.cnblogs.com/wjchao/p/7460686.html
-gcc and gdb : https://www.cnblogs.com/jiu0821/p/4483804.html
+- gcc : https://www.cnblogs.com/wjchao/p/7460686.html
+- gcc and gdb : https://www.cnblogs.com/jiu0821/p/4483804.html
