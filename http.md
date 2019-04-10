@@ -1,0 +1,2 @@
+- https://juejin.im/entry/5981c5df518825359a2b9476 (HTTP1.0、HTTP1.1 和 HTTP2.0 的区别)
+- https://juejin.im/post/5cac6ddaf265da0368143bf2  (大前端开发人员必知必会的HTTP知识)
