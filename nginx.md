@@ -1,0 +1,1 @@
+- https://zhuanlan.zhihu.com/p/34943332 (8分钟带你深入浅出搞懂Nginx)
