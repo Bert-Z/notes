@@ -1,0 +1,2 @@
+- https://blog.csdn.net/vergilgeekopen/article/details/68954940 (vue 请求后台数据)
+- https://www.cnblogs.com/yoyotl/p/7026566.html (Spring boot返回JSON类型响应及Content-Type设置 )
