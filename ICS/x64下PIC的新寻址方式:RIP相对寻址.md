@@ -1,0 +1,1 @@
+- https://www.polarxiong.com/archives/x64下PIC的新寻址方式-RIP相对寻址.html
