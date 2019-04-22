@@ -1,3 +1,4 @@
 - https://www.cnblogs.com/Dlonghow/archive/2008/07/10/1240069.html （Cookie）
 - https://blog.csdn.net/guoweimelon/article/details/50886092  （Cookie和Session的作用和工作原理）
 - https://juejin.im/entry/5766c29d6be3ff006a31b84e  （区别）
+- http://blog.didispace.com/spring-session-xjf-1/  （从零开始的Spring Session(一)）
